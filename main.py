@@ -6,6 +6,7 @@ def specialsort(inputelem):
 
 
 import re
+print('hi')
 
 fr: typing.TextIO = open('D:/testtext.txt', 'r')
 fw: typing.TextIO = open('D:/output.txt', 'w')
